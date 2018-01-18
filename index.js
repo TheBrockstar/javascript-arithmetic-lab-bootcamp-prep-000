@@ -1,8 +1,8 @@
 function add(a,b){a += b; return a;}
 function subtract(a,b){a -= b; return a;}
-function multiply(){21 * 2}
-function divide(){210 / 5}
-function inc(n){n++}
-function dec(n){n--}
+function multiply(a,b){a *= b; return a;}
+function divide(a,b){a /= b; return a;}
+function inc(n){n++; return n;}
+function dec(n){n--;return n;}
 function makeInt(n){parseInt(n)}
 function preserverDecimal(n){parseFloat(n)}
