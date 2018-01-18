@@ -5,4 +5,4 @@ function divide(210 / 5){}
 function inc(n){n++}
 function dec(n){n--}
 function makeInt(n){parseInt(n)}
-function preserverDecimal(n){}
+function preserverDecimal(n){parseFloat(n)}
