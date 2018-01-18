@@ -1,4 +1,4 @@
-function add(){29 + 13}
+function add(a,b){a + b}
 function subtract(){420 - 378}
 function multiply(){21 * 2}
 function divide(){210 / 5}
