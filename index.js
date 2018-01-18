@@ -1,5 +1,5 @@
 function add(a,b){a += b; return a;}
-function subtract(){420 - 378}
+function subtract(a,b){a -= b; return a;}
 function multiply(){21 * 2}
 function divide(){210 / 5}
 function inc(n){n++}
